@@ -9,9 +9,9 @@ I loaded ~1.75M rows, wrote a few SQL queries, and built simple visuals.
 - Built a one-page Looker Studio report with the charts below.
 
 ## Screenshots
-![Row count](images/01_row_count.png)
-![Label distribution](images/02_label_distribution.png)
-![Top temperatures](images/03_top_temps.png)
+![Row count](https://github.com/lavj1462/Robovision-BigQuery/blob/35f93a9d1909e04f95ce7fb6cb062002475c7160/01_row_count%20(1).pdf)
+![Label distribution]([images/02_label_distribution.png](https://github.com/lavj1462/Robovision-BigQuery/blob/35f93a9d1909e04f95ce7fb6cb062002475c7160/02_label_distribution.pdf))
+![Top temperatures](https://github.com/lavj1462/Robovision-BigQuery/blob/35f93a9d1909e04f95ce7fb6cb062002475c7160/03_top_temps.pdf)
 
 ## Queries
 See [`queries.sql`](queries.sql).
