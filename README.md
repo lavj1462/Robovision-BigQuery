@@ -10,7 +10,7 @@ I loaded ~1.75M rows, wrote a few SQL queries, and built simple visuals.
 
 ## Screenshots
 ![Row count](https://github.com/lavj1462/Robovision-BigQuery/blob/35f93a9d1909e04f95ce7fb6cb062002475c7160/01_row_count%20(1).pdf)
-![Label distribution](https://lookerstudio.google.com/reporting/b394b96c-26fb-4472-b8b8-5beeef4c5d6b)
+![Label distribution](https://github.com/lavj1462/Robovision-BigQuery/blob/097906784fc8d43e8b16ed6711682cb04abab369/02_label_distribution%20(1).pdf)
 ![Top temperatures](https://github.com/lavj1462/Robovision-BigQuery/blob/35f93a9d1909e04f95ce7fb6cb062002475c7160/03_top_temps.pdf)
 
 ## Queries
